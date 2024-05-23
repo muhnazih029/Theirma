@@ -2,10 +2,10 @@
 
 function connectToDatabase()
 {
-    $servername = "localhost";
-    $username = "root";
-    $password = "";
-    $dbname = "db_theirma";
+    $servername = "sql12.freemysqlhosting.net";
+    $username = "sql12708526";
+    $password = "KUnzus2jSw";
+    $dbname = "sql12708526";
 
     $conn = mysqli_connect($servername, $username, $password, $dbname);
 
