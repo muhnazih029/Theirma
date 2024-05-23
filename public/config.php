@@ -1,6 +1,5 @@
 <?php
 
-session_start();
 include "functions.php";
 $conn = connectToDatabase();
 $events = allEvent($conn);
