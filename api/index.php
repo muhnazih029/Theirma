@@ -1,2 +1,2 @@
-<?php
-header('Content-Type: application/json');
+<?php 
+include __DIR__ . '/../index.php';
